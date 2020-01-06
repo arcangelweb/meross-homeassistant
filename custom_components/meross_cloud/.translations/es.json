@@ -1,0 +1,21 @@
+{
+    "config": {
+        "abort": {
+            "single_instance_allowed": "Solo se permite una única configuración de Meross."
+        },
+        "error": {
+            "connection_error": "No se puede conectar con Meross.",
+            "invalid_credentials": "Credenciales no válidas."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "password": "Contraseña",
+                    "username": "Correo electrónico"
+                },
+                "title": "Complete su información de inicio de sesión de Meross"
+            }
+        },
+        "title": "Meross"
+    }
+}
